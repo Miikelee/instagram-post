@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(218, 216, 216);
+    margin: 0;
+}
+header {
+    background-color: white;
+    padding: 10px;
+    
+}
+header h3 {
+    margin: 15px;
+    position: relative;
+    left: 30px;
+    bottom: -50px;
+}
+.post-header {
+    background-color: white;
+    margin-top: -112px;
+    display: flex;
+}
+img {
+    width: 100%;
+}
+.container {
+    width: 600px;
+    margin: auto;
+    background-color: white;
+    margin-top: 80px;
+}
+p , footer {
+    padding: 10px;
+    margin: 0;
+}
+.icono {
+    text-align: right;
+    position: relative;
+    top: -30px;
+    
+}
+i {
+    font-size: 30px;
+}
+span {
+    position: relative;
+    top: 40px;
+    right: -46px;
+}
+.icono-html {
+    position: relative;
+    top: 2px;
+    right: -13px;
+}
+.icono-puntos {
+    position: relative;
+    left: 540px;
+    top: -25px;
+}
